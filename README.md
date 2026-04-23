@@ -69,7 +69,7 @@ pip install matplotlib networkx pandas numpy seaborn
 python cloud_network_simulation.py
 ```
 
-##Output Files
+## Output Files
 The simulator generates comprehensive outputs in the results/ directory:
 
 ### Dashboards (results/dashboards/)
