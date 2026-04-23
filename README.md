@@ -1,9 +1,9 @@
-# Cloud Network Simulator
+# Cloud Network Simulation
 A sophisticated network simulation tool that models cloud infrastructure with dynamic traffic flows, congestion control, and real-time visualization. Built with Python, NetworkX, and Matplotlib.
 
 ## Project Description
 
-This **Cloud Network Simulator** provides a comprehensive simulation environment for cloud network infrastructures, including routers, datacenters, and users. It models realistic network behavior with dynamic traffic flows, adaptive routing, congestion control mechanisms, and extensive performance metrics visualization.
+This **Cloud Network Simulation** provides a comprehensive simulation environment for cloud network infrastructures, including routers, datacenters, and users. It models realistic network behavior with dynamic traffic flows, adaptive routing, congestion control mechanisms, and extensive performance metrics visualization.
 
 ### Key Capabilities
 
